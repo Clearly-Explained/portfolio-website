@@ -5,7 +5,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 Say hello to Story, a brand new responsive one-pager for HTML5 UP! Inspired by my work
 on Carrd*, Story is built to be extremely modular and tweakable, and as such is entirely
-built on reusable, insanely customizable elements (like "spotlight" and "gallery") that
+built on reusable, insanely customizable elements (like "projects" and "gallery") that
 can be endlessly duplicated and tweaked into whatever you need to tell your story --
 without, in many cases, touching *any* CSS. Check out index-demo.html for an interactive
 demo, and index.html for the actual template. Enjoy!
